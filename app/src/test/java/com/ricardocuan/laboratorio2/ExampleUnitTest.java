@@ -1,4 +1,4 @@
-package com.ricardocuan.laboratorio1;
+package com.ricardocuan.laboratorio2;
 
 import org.junit.Test;
 
