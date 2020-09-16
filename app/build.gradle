@@ -4,7 +4,7 @@ android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
     defaultConfig {
-        applicationId "com.ricardocuan.laboratorio6"
+        applicationId "com.ricardocuan.laboratorio7"
         minSdkVersion 15
         targetSdkVersion 30
         versionCode 1
