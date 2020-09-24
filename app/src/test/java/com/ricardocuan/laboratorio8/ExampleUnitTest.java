@@ -1,4 +1,4 @@
-package com.ricardocuan.laboratorio7;
+package com.ricardocuan.laboratorio8;
 
 import org.junit.Test;
 
